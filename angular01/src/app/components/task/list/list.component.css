@@ -1,0 +1,25 @@
+#right{
+    width: 800px;
+    height:300px;
+    border: 2px solid #eee;
+    margin: 20px;
+    padding: 10px;
+    float: right;
+}
+#neirong{
+    width: 780px;
+    height:auto;
+    margin: 10px auto;
+    padding: 10px;
+}
+ul li{
+    float: left;
+    list-style-type: none;
+    margin: 30px;
+}
+ul li a{
+    width: 200px;
+    height: 10px;
+    margin: 0;
+    
+}

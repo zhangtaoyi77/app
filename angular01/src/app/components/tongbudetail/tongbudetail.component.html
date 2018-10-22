@@ -1,0 +1,14 @@
+<div class="container">
+  <h3>同步课/{{Course?.courseName}}</h3>
+  <ul class="list">
+    <li>简介</li><!--  [class.active]="true" -->
+   <li>互动</li> <!--  [ngclass] = "{'active':true}" -->
+    <li>任务{{Course?.task}}</li><!--  [style.color] = "'red'" -->
+    <li>成员{{Course?.person}}<!-- </li>[ngStyle] = "{'color':'red','font-size':'50px'}" -->
+  </ul>
+</div>
+<div>
+  <div></div>
+  <div></div>
+  <div></div>
+</div>

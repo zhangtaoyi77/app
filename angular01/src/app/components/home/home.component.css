@@ -1,0 +1,46 @@
+img{
+    width: 150px;
+    height: 150px;
+}
+#conter{
+    width:2048px;
+    height: 400px;
+    color: #000;
+    font-size: 16px;
+    margin: 10px;
+    padding: 5px;
+}
+#right{
+    width: 800px;
+    height:300px;
+    border: 2px solid #eee;
+    margin: 20px;
+    padding: 10px;
+    float: right;
+}
+#neirong{
+    width: 780px;
+    height:auto;
+    margin: 10px auto;
+    padding: 10px;
+}
+#left{
+    width: 240px;
+    height: 800px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    float:left;
+    background-color: #fff;
+}
+ul li{
+    float: left;
+    list-style-type: none;
+    margin: 30px;
+}
+ul li a{
+    width: 200px;
+    height: 10px;
+    margin: 0;
+    
+}
