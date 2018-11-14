@@ -1,0 +1,81 @@
+page-page-one {
+    ion-content{
+        padding: 0!important;
+        ul{
+            padding: 0!important;
+            border: 1px solid red;
+            margin-top: 0;
+            .one{
+                text-align: center;
+                background-image: url(./../assets/imgs/bg1.png) ;
+                background-size:100% 100%;
+                div{
+                    p{
+                        display:block;
+                        margin-bottom: -9px;
+                        opacity: 1;
+                        color: #fff;
+                    }
+                }
+                
+                h6{
+                    font-size: 13px;
+                    opacity: 1;
+                    color: #fff;
+                }
+            }
+            .two{
+                text-align: center;
+                background-image: url(./../assets/imgs/bg2.png) ;
+                background-size:100% 100%;
+                div{
+                    p{
+                        display:block;
+                        margin-bottom: -9px;
+                        opacity: 1;
+                        color: #fff;
+                    }
+                }
+                
+                h6{
+                    font-size: 13px;
+                    opacity: 1;
+                    color: #fff;
+                }
+            }
+            .three{
+                text-align: center;
+                background-image: url(./../assets/imgs/bg3.png) ;
+                background-size:100% 100%;
+                div{
+                    p{
+                        display:block;
+                        margin-bottom: -9px;
+                        opacity: 1;
+                        color: #fff;
+                    }
+                }
+                
+                h6{
+                    font-size: 13px;
+                    opacity: 1;
+                    color: #fff;
+                }
+            }
+            li{
+                height: 230px;
+                width: 100%;
+               
+                div{
+                    background-color: rgb(116, 99, 99);
+                    opacity: 0.5;
+                    width: 50%;
+                    height: 50%;
+                    position: relative;
+                    top: 18%;
+                    left: 25%;
+                }
+            }
+        }
+    }
+}
